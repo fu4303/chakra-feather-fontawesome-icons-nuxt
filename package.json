@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@chakra-ui/nuxt": "0.2.5-next.0",
-    "@fortawesome/free-brands-svg-icons": "^5.15.1",
-    "@fortawesome/pro-light-svg-icons": "^5.15.1",
+    "@fontawesome/free-brands-svg-icons": "^5.15.1",
+    "@fontawesome/pro-light-svg-icons": "^5.15.1",
     "@nuxtjs/emotion": "^0.1.0",
     "core-js": "^3.6.5",
     "feather-icons-paths": "^1.0.8",
